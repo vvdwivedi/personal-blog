@@ -1,7 +1,7 @@
 {
   "version": "2.0.2",
-  "name": "gatsby-starter-lumen",
-  "description": "Simple starter for Gatsby",
+  "name": "vivek",
+  "description": "Personal Blog",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
@@ -12,15 +12,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
-  "repository": "git+https://github.com/alxshelepenok/gatsby-starter-lumen.git",
+  "repository": "git+https://github.com/vvdwivedi/personal-blog.git",
   "keywords": [
-    "gatsby",
+    "vivek",
     "blog",
-    "react",
-    "theme",
-    "starter"
+    "react"
   ],
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "author": "Vivek V Dwivedi <vvdwivedi@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "gatsby": "^1.9.164",
