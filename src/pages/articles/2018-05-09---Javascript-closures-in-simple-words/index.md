@@ -16,14 +16,14 @@ Well, there are already countless guides, explanations and videos on Javascript 
 
 As fancy as it sounds, it just means that a closure is function holding on to the environment(variables etc) in which it was declared. How, you might ask. And to understand that, let's look at the code below:
 
-<pre><code>
+```javascript
 var globalGuy = 10;
 var getSomeClosure = function () {
     var insideGuy = 5;
     return insideGuy + globalGuy;
 }
 console.dir(getSomeClosure)
-</code></pre>
+```
 
 So where is closure in this? It just looks like a stupid code block. Here is the output on console however:
 

@@ -1,6 +1,6 @@
 ---
 title: Pass by reference hell in JavaScript
-date: "2018-05-09T23:46:37.121Z"
+date: "2018-09-27T23:46:37.121Z"
 layout: post
 draft: false
 path: "/posts/pass-by-reference-hell-in-js/"
